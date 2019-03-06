@@ -1,6 +1,6 @@
 # Ebooks crawler
 
-In this code, I get information of some novels from website http://www.zxcs.me/sort/28.
+In this code, I get some information of some novels (name,author,compressed file download link...) from website http://www.zxcs.me/sort/28.
 
 The code is modified according to code in 
 https://github.com/MiccWan/Political-News-Analysis/tree/master/crawler.
